@@ -7,3 +7,7 @@ compile_commands.json
 .clangd
 .cache
 mbed-os
+.github
+.circleci
+resources
+.travis.yml
